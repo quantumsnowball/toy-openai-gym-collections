@@ -29,4 +29,5 @@ The following table shows some commonly used reinforcement learning algorithm
 | PPO 	| Proximal Policy Optimization 	| Model-Free 	| On-policy 	| Continuous 	| Continuous 	| Advantage 	|
 | TD3 	| Twin Delayed Deep Deterministic Policy Gradient 	| Model-Free 	| Off-policy 	| Continuous 	| Continuous 	| Q-value 	|
 | SAC 	| Soft Actor-Critic 	| Model-Free 	| Off-policy 	| Continuous 	| Continuous 	| Advantage 	|
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning#Comparison_of_reinforcement_learning_algorithms)
