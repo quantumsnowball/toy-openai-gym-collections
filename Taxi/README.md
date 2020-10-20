@@ -44,12 +44,12 @@ state space is represented by: (taxi_row, taxi_col, passenger_location, destinat
 
 # Version
 * [Taxi-v3](https://github.com/openai/gym/blob/8e5a7ca3e6b4c88100a9550910dfb1a6ed8c5277/gym/envs/__init__.py#L183)
->```
-id='Taxi-v3',
-entry_point='gym.envs.toy_text:TaxiEnv',
-reward_threshold=8, # optimum = 8.46
-max_episode_steps=200,
-```
+    ```
+    id='Taxi-v3',
+    entry_point='gym.envs.toy_text:TaxiEnv',
+    reward_threshold=8, # optimum = 8.46
+    max_episode_steps=200,
+    ```
 
 # Source
 * [https://gym.openai.com/envs/Taxi-v3/](https://gym.openai.com/envs/Taxi-v3/)
