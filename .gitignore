@@ -4,6 +4,10 @@
 # jupyter
 .ipynb_checkpoints/
 
+# IDEs
+.idea/
+.vscode/
+
 # python
 __pycache__/
 
