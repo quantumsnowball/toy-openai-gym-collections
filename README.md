@@ -5,7 +5,7 @@ The best way to learn programming is to build from scratch on top of a very simp
 This table shows the results of each approaches that I have tried to solve a particular environment:
 
 | Environment | Q-Learning | DQN |
-|:-:|||
+|:-:|:-:|:-:|
 | Taxi        | &#9745; | &#9745; |
 | CartPole    | &#9744; | &#9744; |
 | LunarLander | &#9744; | &#9744; |
