@@ -1,0 +1,23 @@
+# git
+.git/
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+
+# google drive
+desktop.ini
+
+# code snippets
+__gists__/
+
+# debug
+debug.log
+
+# saved models
+*.h5
+*.sav
+*.pkl
+*.pkl.gz
