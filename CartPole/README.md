@@ -55,6 +55,6 @@ Considered solved when the average return is greater than or equal to 195.0 over
     ```
 
 # Source
-* [https://gym.openai.com/envs/CartPole-v0/](https://gym.openai.com/envs/CartPole-v0/)
-* [https://gym.openai.com/envs/CartPole-v1/](https://gym.openai.com/envs/CartPole-v1/)
-* [https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py](https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py)
+* <https://gym.openai.com/envs/CartPole-v0/>
+* <https://gym.openai.com/envs/CartPole-v1/>
+* <https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py>

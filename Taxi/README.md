@@ -52,5 +52,5 @@ state space is represented by: (taxi_row, taxi_col, passenger_location, destinat
     ```
 
 # Source
-* [https://gym.openai.com/envs/Taxi-v3/](https://gym.openai.com/envs/Taxi-v3/)
-* [https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py](https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py)
+* <https://gym.openai.com/envs/Taxi-v3/>
+* <https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py>

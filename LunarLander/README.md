@@ -33,5 +33,5 @@ Created by Oleg Klimov. Licensed on the same terms as the rest of OpenAI Gym.
     ```
 
 # Source
-* [https://gym.openai.com/envs/LunarLander-v2/](https://gym.openai.com/envs/LunarLander-v2/)
-* [https://github.com/openai/gym/blob/master/gym/envs/box2d/lunar_lander.py](https://github.com/openai/gym/blob/master/gym/envs/box2d/lunar_lander.py)
+* <https://gym.openai.com/envs/LunarLander-v2/>
+* <https://github.com/openai/gym/blob/master/gym/envs/box2d/lunar_lander.py>
