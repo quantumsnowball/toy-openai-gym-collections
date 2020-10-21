@@ -7,6 +7,7 @@ This table shows the results of each approaches that I have tried to solve a par
 | Environment | Q-Learning | DQN |
 |:-:|:-:|:-:|
 | Taxi        | [&#9745;](Taxi/taxi_v3%40QLearning%23numpy.ipynb) | [&#9745;](Taxi/taxi_v3%40DQN%23keras.ipynb) |
+| FrozenLake  | [&#9745;](FrozenLake/FrozenLake8x8_v0%40QLearning%23numpy.ipynb) | [&#9745;](FrozenLake/FrozenLake8x8_v0%40DQN%23keras.ipynb) |
 | CartPole    | &#9744; | [&#9745;](CartPole/cartpole_v1%40DQN%23keras.ipynb) |
 | LunarLander | &#9744; | &#9744; |
 
