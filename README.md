@@ -9,7 +9,7 @@ This table shows the results of each approaches that I have tried to solve a par
 | Taxi        | [&#9745;](Taxi/taxi_v3%40QLearning%23numpy.ipynb) | [&#9745;](Taxi/taxi_v3%40DQN%23keras.ipynb) | &#9744; |
 | FrozenLake  | [&#9745;](FrozenLake/FrozenLake8x8_v0%40QLearning%23numpy.ipynb) | [&#9745;](FrozenLake/FrozenLake8x8_v0%40DQN%23keras.ipynb) | &#9744; |
 | CartPole    | &#9744; | [&#9745;](CartPole/cartpole_v1%40DQN%23keras.ipynb) | [&#9745;](CartPole/cartpole_v1%40PG%23pytorch.ipynb) |
-| LunarLander | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | &#9744; |
+| LunarLander | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40PG%23pytorch.ipynb) |
 
 
 # Comparison of Common Reinforcement Learning Algorithms
