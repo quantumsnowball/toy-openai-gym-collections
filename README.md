@@ -4,12 +4,12 @@ The best way to learn programming is to build from scratch on top of a very simp
 # Toy Environment Results
 This table shows the results of each approaches that I have tried to solve a particular environment:
 
-| Environment | Q-Learning | DQN | PG |
-|:-:|:-:|:-:|:-:|
-| [Taxi](Taxi)               | [&#9745;](Taxi/taxi_v3%40QLearning%23numpy.ipynb) | [&#9745;](Taxi/taxi_v3%40DQN%23keras.ipynb) | &#9744; |
-| [FrozenLake](FrozenLake)   | [&#9745;](FrozenLake/FrozenLake8x8_v0%40QLearning%23numpy.ipynb) | [&#9745;](FrozenLake/FrozenLake8x8_v0%40DQN%23keras.ipynb) | &#9744; |
-| [CartPole](CartPole)       | &#9744; | [&#9745;](CartPole/cartpole_v1%40DQN%23keras.ipynb) | [&#9745;](CartPole/cartpole_v1%40PG%23pytorch.ipynb) |
-| [LunarLander](LunarLander) | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40PG%23pytorch.ipynb) |
+| Environment | Q-Learning | DQN | PG | rgtPG |
+|:-:|:-:|:-:|:-:|:-|
+| [Taxi](Taxi)               | [&#9745;](Taxi/taxi_v3%40QLearning%23numpy.ipynb) | [&#9745;](Taxi/taxi_v3%40DQN%23keras.ipynb) | &#9744; | &#9744; |
+| [FrozenLake](FrozenLake)   | [&#9745;](FrozenLake/FrozenLake8x8_v0%40QLearning%23numpy.ipynb) | [&#9745;](FrozenLake/FrozenLake8x8_v0%40DQN%23keras.ipynb) | &#9744; | &#9744; |
+| [CartPole](CartPole)       | &#9744; | [&#9745;](CartPole/cartpole_v1%40DQN%23keras.ipynb) | [&#9745;](CartPole/cartpole_v1%40PG%23pytorch.ipynb) | [&#9745;](CartPole/cartpole_v1%40rtgPG%23pytorch.ipynb) |
+| [LunarLander](LunarLander) | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40PG%23pytorch.ipynb) | &#9744; |
 
 
 # Comparison of Common Reinforcement Learning Algorithms
