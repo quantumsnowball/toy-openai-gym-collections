@@ -1,6 +1,15 @@
 # Pseudo Code Quick Reference
 List of pseudo code of some state-of-the-art reinforcement learning algorithms collections for quick reference.
 
+# Q - Q-Learning
+![](images/Q.png, "Q-Learning")
+
+# DQN - Deep Q Network
+![](images/DQN.png, "Deep Q Network")
+
+# SARSA - State–Action–Reward–State–Action
+![](images/SARSA.png, "State–Action–Reward–State–Action")
+
 # VPG - Vanilla Policy Gradient
 ![](images/VPG.svg, "Vanilla Policy Gradient") <img src=images/VPG.svg>
 
