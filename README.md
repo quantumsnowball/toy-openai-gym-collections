@@ -11,6 +11,9 @@ This table shows the results of each approaches that I have tried to solve a par
 | [CartPole](CartPole)       | &#9744; | [&#9745;](CartPole/cartpole_v1%40DQN%23keras.ipynb) | [&#9745;](CartPole/cartpole_v1%40PG%23pytorch.ipynb) | [&#9745;](CartPole/cartpole_v1%40rtgPG%23pytorch.ipynb) |
 | [LunarLander](LunarLander) | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40PG%23pytorch.ipynb) | &#9744; |
 
+# A Taxonomy of RL Algorithms
+![](https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg "A Taxonomy of RL Algorithms")
+Source: [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html#a-taxonomy-of-rl-algorithms)
 
 # Comparison of Common Reinforcement Learning Algorithms
 The following table shows some commonly used reinforcement learning algorithm
