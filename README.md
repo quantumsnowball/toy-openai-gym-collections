@@ -9,7 +9,7 @@ This table shows the results of each approaches that I have tried to solve a par
 | [Taxi](Taxi)               | [&#9745;](Taxi/taxi_v3%40QLearning%23numpy.ipynb) | [&#9745;](Taxi/taxi_v3%40DQN%23keras.ipynb) | &#9744; | &#9744; |
 | [FrozenLake](FrozenLake)   | [&#9745;](FrozenLake/FrozenLake8x8_v0%40QLearning%23numpy.ipynb) | [&#9745;](FrozenLake/FrozenLake8x8_v0%40DQN%23keras.ipynb) | &#9744; | &#9744; |
 | [CartPole](CartPole)       | &#9744; | [&#9745;](CartPole/cartpole_v1%40DQN%23keras.ipynb) | [&#9745;](CartPole/cartpole_v1%40PG%23pytorch.ipynb) | [&#9745;](CartPole/cartpole_v1%40rtgPG%23pytorch.ipynb) |
-| [LunarLander](LunarLander) | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40PG%23pytorch.ipynb) | &#9744; |
+| [LunarLander](LunarLander) | &#9744; | [&#9745;](LunarLander/lunarlander_v2%40DQN%23keras.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40PG%23pytorch.ipynb) | [&#9745;](LunarLander/lunarlander_v2%40rtgPG%23pytorch.ipynb) |
 
 # A Taxonomy of RL Algorithms
 ![](https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg "A Taxonomy of RL Algorithms")
