@@ -4,7 +4,7 @@ The best way to learn programming is to build from scratch on top of a very simp
 # Toy Environment Results
 This table shows the results of each approaches that I have tried to solve a particular environment:
 
-| Environment | Q-Learning | DQN | PG | rtgPG |
+| Environment | [Q](#toy-environment-results "Q Learning") | [DQN](#toy-environment-results "Deep Q Network") | [PG](#toy-environment-results "Policy Gradient") | [rtgPG](#toy-environment-results "Reward-to-Go Policy Gradient") |
 |:-:|:-:|:-:|:-:|:-|
 | [Taxi](Taxi)               | [&#9745;](Taxi/taxi_v3%40QLearning%23numpy.ipynb) | [&#9745;](Taxi/taxi_v3%40DQN%23keras.ipynb) | &#9744; | &#9744; |
 | [FrozenLake](FrozenLake)   | [&#9745;](FrozenLake/FrozenLake8x8_v0%40QLearning%23numpy.ipynb) | [&#9745;](FrozenLake/FrozenLake8x8_v0%40DQN%23keras.ipynb) | &#9744; | &#9744; |
